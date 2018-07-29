@@ -226,6 +226,9 @@ canvas.height = 350;
 canvas.style.height = 350+"px";
 
 var originalBullets = [
+	{x:-2,y:-1},
+	{x:-1.8,y:-1},
+	{x:-1.9,y:-.8},
 
 	{x:-1,y:-1},
 	{x:-1,y:-0.75},
